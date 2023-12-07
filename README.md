@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ata</h1>
 <h3 align="center">An iOS developer from Turkey, Izmir</h3>
 
-- 🔭 I’m currently working on **Trendyol**
+- 🔭 I’m currently working on **Boyner Group**
 
 - 🌱 I’m currently learning **SwiftUI**
 
